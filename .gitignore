@@ -1,0 +1,10 @@
+*.pyo
+*.pyc
+.idea
+.idea/*
+.idea/
+.idea/wokspace.xml
+EventosApp/settings.py
+EventosApp/wsgi.py
+media
+media/*
