@@ -8,3 +8,4 @@ EventosApp/settings.py
 EventosApp/wsgi.py
 media
 media/*
+Eventos.sqlite3
